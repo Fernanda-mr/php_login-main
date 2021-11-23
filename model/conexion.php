@@ -9,7 +9,7 @@
         private $mysqli = '';
         private $usuario = 'admin';
         private $clave = 'admin';
-        private $server = 'localhost:3306';
+        private $server = '192.168.0.13:3306';
         private $db = 'login';
 
 
